@@ -1,7 +1,7 @@
 0.5 (unreleased)
 ----------------
 
-- No changes yet.
+- Avoid memory copies for non-native endian 64-bit float arrays. [#18]
 
 0.4 (2018-02-12)
 ----------------
